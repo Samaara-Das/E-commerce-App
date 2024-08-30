@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223214174678",
+    "project_id": "shopatoz-41f3a",
+    "storage_bucket": "shopatoz-41f3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223214174678:android:836a2dbc4b95ab467c2477",
+        "android_client_info": {
+          "package_name": "com.example.shop_a_z"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwPJoouDaY_Nzpet_ejP3E9vE2P6ntAgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
